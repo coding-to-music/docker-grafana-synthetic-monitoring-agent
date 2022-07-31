@@ -8,6 +8,8 @@ From / By https://github.com/grafana/synthetic-monitoring-agent
 
 https://github.com/grafana/synthetic-monitoring-agent
 
+https://grafana.com/docs/grafana-cloud/synthetic-monitoring/
+
 ## Environment variables:
 
 ```java
